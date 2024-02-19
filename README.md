@@ -1,5 +1,6 @@
 <h2>Скриншоты экранов сервисов, проектов</h2>
 
+- [CeraMobile - контроль товаров на полках (React-Native)](https://github.com/zolotkokn/my-projects-screens/tree/master/screenshots/ceramobile/README.md)
 - [Полки, распознование товаров, планограммы и отчеты ритейла](https://github.com/zolotkokn/my-projects-screens/tree/master/screenshots/shelves/README.md)
 - [Очереди, графики и отчеты для ритейла](https://github.com/zolotkokn/my-projects-screens/tree/master/screenshots/queues/README.md)
 - [Счетчик людей/транспорта](https://github.com/zolotkokn/my-projects-screens/tree/master/screenshots/counter/README.md)
